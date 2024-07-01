@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+__pycache__
+.ipynb_checkpoints/*
+__pycache__/*
+*/.ipynb_checkpoints
+*/__pycache__
+venv
+venv/
+venv/*
+*/venv
+data/chat.csv
